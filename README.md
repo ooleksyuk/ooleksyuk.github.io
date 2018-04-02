@@ -9,26 +9,26 @@ I think allowing machines to see will unlock the revolution in AI. I want to be 
  
 ## Experience
 
-* Self-education in self-driving cars and machine perception
+* **Self-education in self-driving cars and machine perception**
 
     _February 2017 – March 2018 (13 months)_
 
     * [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [Udacity] 
-       * [Traffic Sign Classifier](https://github.com/ooleksyuk/carnd-traffic-sign-classifier-project#top) (LeNet Network)
-       * [Lane Finding](https://github.com/ooleksyuk/CarND-Advanced-Lane-Lines#top) (Camera Calibration, Perspective transform, Polynomial fit)
-       * Vehicle Detection and Tracking (HOG, Linear SVM classifier, sliding-window, heatmaps)
-       * Mapping  and Localization (Particle Filter, Extended, and Unscented Kalman Filters)
-       * Throttling and Steering (Model Predictive Control, Behavioral Cloning, PID Controller)
-       * Path Planning (A* Algorithm, Sensor Fusion, Prediction, Behaviour Planning, Trajectory Generation)
-       * Scene Understanding (Semantic Segmentation, FCN, VGG16, KITI, CityScapes, Upsampling, Cross-Entropy Loss)
-       * Programming a Real Self-Driving Car (ROS, U-Net, Sequential, PID Controller, Trajectory Planner, Waypoint Follower, Stability Controller, Gain Controller)
-       * Convolutional Neural Networks [Coursera] 
-       * Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization [Coursera] 
-       * Structuring Machine Learning [Coursera]
-       * Neural Networks and Deep Learning [Coursera] 
-       * Machine Learning [Coursera] 
+       * **[Traffic Sign Classifier](https://github.com/ooleksyuk/carnd-traffic-sign-classifier-project#top)** (LeNet Network)
+       * **[Lane Finding](https://github.com/ooleksyuk/CarND-Advanced-Lane-Lines#top)** (Camera Calibration, Perspective transform, Polynomial fit)
+       * **[Vehicle Detection and Tracking](https://github.com/ooleksyuk/CarND-Vehicle-Detection#top)** (HOG, Linear SVM classifier, sliding-window, heatmaps)
+       * **Mapping  and Localization** ([Particle Filter](https://github.com/ooleksyuk/CarND-Kidnapped-Vehicle-Project#top), [Extended](https://github.com/ooleksyuk/CarND-Extended-Kalman-Filter-Project#top), and [Unscented](https://github.com/ooleksyuk/CarND-Unscented-Kalman-Filter-Project#top) Kalman Filters)
+       * **Throttling and Steering** ([Model Predictive Control](https://github.com/ooleksyuk/CarND-MPC-Project#top), [Behavioral Cloning](https://github.com/ooleksyuk/CarND-Behavioral-Cloning-P3#top), [PID Controller](https://github.com/ooleksyuk/CarND-PID-Control-Project#top))
+       * **[Path Planning](https://github.com/ooleksyuk/CarND-Path-Planning-Project#top)** (A* Algorithm, Sensor Fusion, Prediction, Behaviour Planning, Trajectory Generation)
+       * **[Scene Understanding](https://github.com/ooleksyuk/CarND-Semantic-Segmentation#top)** (Semantic Segmentation, FCN, VGG16, KITI, CityScapes, Upsampling, Cross-Entropy Loss)
+       * **[Programming a Real Self-Driving Car](https://github.com/ooleksyuk/CarND-Capstone#top)** (ROS, U-Net, Sequential, PID Controller, Trajectory Planner, Waypoint Follower, Stability Controller, Gain Controller)
+   * **[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)** [Coursera] 
+   * **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network)** [Coursera] 
+   * **[Structuring Machine Learning](https://www.coursera.org/learn/machine-learning-projects)** [Coursera]
+   * **[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)** [Coursera] 
+   * **[Machine Learning](https://www.coursera.org/learn/machine-learning)** [Coursera] 
 
-* Software Engineer at ezCater
+* **Software Engineer** at ezCater
 
     _January 2016 -  Present (2+ years), Boston_
     
@@ -40,11 +40,11 @@ I think allowing machines to see will unlock the revolution in AI. I want to be 
 
     Developed the system for collecting the detailed logs of users’ interactions with the website. Built tools for the transformation of the collected data into the format which could be analyzed by machine learning tools.
  
-* Maternity leave
+* **Maternity leave**
 
     _December 2011 - December 2015_
  
-* Full Stack Developer, Contractor
+* **Full Stack Developer**, Contractor
     
     _2008 – 2011 (3 years), Ukraine_
     
