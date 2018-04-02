@@ -1,5 +1,5 @@
 ## Summary
-I’m looking for a job as a machine perception specialist in robotics. 
+I’m interested in machine perception in robotics. 
 
 I'm eager to contribute to the next revolution in mobility and what might be the most profoundly impactful technological advancement: self-driving cars. With multiple years of experience in software development, as well as team leadership, and demonstrable communication skills, I have much to offer and embrace the challenge in pivoting my career toward artificial intelligence and robotics. 
 
