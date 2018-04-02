@@ -13,8 +13,10 @@ I think allowing machines to see will unlock the revolution in AI. I want to be 
 
     _February 2017 – March 2018 (13 months)_
 
-    * [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [Udacity] 
-       * **[Traffic Sign Classifier](https://github.com/ooleksyuk/carnd-traffic-sign-classifier-project#top)** (LeNet Network)
+    * **[Self-Driving Car Engineer 
+      Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)** [Udacity] 
+       * **[Traffic Sign Classifier](https://github.com/ooleksyuk/carnd-traffic-sign-classifier-project#top)** 
+         (LeNet Network)
        * **[Lane Finding](https://github.com/ooleksyuk/CarND-Advanced-Lane-Lines#top)** (Camera Calibration, Perspective transform, Polynomial fit)
        * **[Vehicle Detection and Tracking](https://github.com/ooleksyuk/CarND-Vehicle-Detection#top)** (HOG, Linear SVM classifier, sliding-window, heatmaps)
        * **Mapping  and Localization** ([Particle Filter](https://github.com/ooleksyuk/CarND-Kidnapped-Vehicle-Project#top), [Extended](https://github.com/ooleksyuk/CarND-Extended-Kalman-Filter-Project#top), and [Unscented](https://github.com/ooleksyuk/CarND-Unscented-Kalman-Filter-Project#top) Kalman Filters)
@@ -31,24 +33,28 @@ I think allowing machines to see will unlock the revolution in AI. I want to be 
 * **Software Engineer** at ezCater
 
     _January 2016 -  Present (2+ years), Boston_
-    
+
     Back-end development using PostgreSQL, Sidekiq, Amazon Kinesis Firehose, Amazon RedShift, Ruby on Rails.
 
     Built a high-volume data transformation and synchronization tool.
-    
-    Lead integration with a third-party restaurant management system. Identified and automated a number of steps in the ordering processing.
 
-    Developed the system for collecting the detailed logs of users’ interactions with the website. Built tools for the transformation of the collected data into the format which could be analyzed by machine learning tools.
- 
+    Lead integration with a third-party restaurant management system. Identified and automated a number of 
+    steps in the ordering processing.
+
+    Developed the system for collecting the detailed logs of users’ interactions with the website. Built tools 
+    for the transformation of the collected data into the format which could be analyzed by machine learning 
+      tools.
+
 * **Maternity leave**
 
     _December 2011 - December 2015_
- 
+
 * **Full Stack Developer**, Contractor
-    
+
     _2008 – 2011 (3 years), Ukraine_
-    
-    Developed back-end and front-end for business applications. Mostly used Python and C#/.NET, and business applications using Node.js, Express, and MongoDB, PHP/MySQL, HTML, CSS, JavaScript.
+
+    Developed back-end and front-end for business applications. Mostly used Python and C#/.NET, and business 
+    applications using Node.js, Express, and MongoDB, PHP/MySQL, HTML, CSS, JavaScript.
  
 ## Education
 * Taras Shevchenko National University of Kyiv
