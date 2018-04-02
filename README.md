@@ -1,3 +1,6 @@
+**Olga Oleksyuk**
+_mail@olga-v.com_
+
 ## Summary
 I’m interested in machine perception in robotics. 
 
